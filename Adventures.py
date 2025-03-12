@@ -2,8 +2,6 @@
 This file controls the adventure. It creates the many object instances required for the adventure, and runs the program
 By Patrick Wirries
 '''
-#Add a try-except system so as not to crash the game
-#Add kidnappers to list of creatures but don't let rock be used on them
 
 from Entities import *
 from Game import *
